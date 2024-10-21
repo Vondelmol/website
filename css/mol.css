@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+p {
+	font-family: "Comic Sans MS", Verdana, "Arial Black";
+	font-size: 12pt;
+	line-height: 20pt;
+	font-weight: normal;
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+}
